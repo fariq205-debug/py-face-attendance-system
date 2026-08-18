@@ -42,8 +42,5 @@ vision-auth-py/
 ├── haarcascade_frontalface_default.xml # Face Detection Cascade Classifier
 ├── student_images/                 # Captured Face Dataset Directory
 └── README.md                       # Project Documentation
-
-
-```bash
 git clone [https://github.com/YOUR_USERNAME/vision-auth-py.git](https://github.com/YOUR_USERNAME/vision-auth-py.git)
 cd vision-auth-py
